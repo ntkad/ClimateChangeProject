@@ -1,0 +1,10 @@
+// This will be where the data used to show options to the player is going to be stored
+// The format depends entirely on design decisions 
+// an example can be 
+
+// {“support conservation group” : [(benefit 1, +$1000, 2years), (benefit 2, $1200, 0years)]}
+
+// Using this example, this line of data can then be used to create a Benefit(using the Benefit class)
+
+
+
